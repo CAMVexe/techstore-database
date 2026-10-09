@@ -1,0 +1,19 @@
+# Backups and database files
+*.bak
+*.mdf
+*.ldf
+*.ndf
+*.dmp
+
+# Secrets and local config
+.env
+*.env
+appsettings.*.json
+
+# Editor / OS
+.vs/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
